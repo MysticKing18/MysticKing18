@@ -1,5 +1,5 @@
 ## Hi,I'm Luke!😎
-
+<hr>
 
 ABOUT ME
 <hr>
@@ -10,5 +10,6 @@ I stumble. I overthink small problems. Sometimes I feel discouraged and fall beh
 
 I’m pursuing a future in IT, even as a slow learner. I may not be the fastest, but I’m consistent, and I’m willing to work hard to improve little by little. I believe that with patience, effort, and faith, the hard work will eventually pay off. I’m not doing this alone—God is with me every step of the way 😎 He’s my No. 1 backer.
 
+<hr>
 My goal is simple: to grow, to become better than I was yesterday, and one day, to live a stable and meaningful life.
 
